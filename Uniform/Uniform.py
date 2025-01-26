@@ -4,7 +4,7 @@ import random
 # Illustrate standard uniform random number generator
 
 # Initialize the random number generator using specified seed
-SEED = 203
+SEED = 3184
 random.seed(SEED)
 
 print('SEED set to ',SEED)
